@@ -11,7 +11,6 @@ ___
 
 # Java Challenge: Conversor de Monedas
 
-![GRÁFICA](https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 ### <span style="font-size:larger;">Este proyecto permite al usuario buscar libros utilizando la API [Gutendex](https://gutendex.com/) y guardar los resultados en una base de datos de PostgreSQL.
 
 ## Características ✨
