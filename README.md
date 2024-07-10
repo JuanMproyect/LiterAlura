@@ -9,7 +9,7 @@ ___
 
 # Literatura
 
-# Java Challenge: Conversor de Monedas
+# Challenge: Conversor de Monedas
 
 ### <span style="font-size:larger;">Este proyecto permite al usuario buscar libros utilizando la API [Gutendex](https://gutendex.com/) y guardar los resultados en una base de datos de PostgreSQL.
 
