@@ -13,7 +13,7 @@ ___
 
 ### <span style="font-size:larger;">Este proyecto permite al usuario buscar libros utilizando la API [Gutendex](https://gutendex.com/) y guardar los resultados en una base de datos de PostgreSQL.
 
-## Características ✨
+## Características 
 
 - **Buscar Libro:** Permite buscar libros utilizando la API de Gutendex y guarda el primer resultado encontrado en la base de datos.
 - **Listar Libros:** Permite imprimir por consola todos los libros guardados en la base de datos.
@@ -21,7 +21,7 @@ ___
 - **Listar Autores por Año:** Imprime por consola los autores vivos en el año especificado.
 - **Listar Libros por Idioma:** Filtra los libros según el idioma especificado y los muestra por consola.
 
-## Requisitos 🚀
+## Requisitos 
 
 Para este proyecto se utilizaron las siguientes tecnologías:
 - **Java JDK:** versión 21
